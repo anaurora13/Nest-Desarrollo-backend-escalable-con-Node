@@ -75,4 +75,8 @@ export class CarsService {
             car => car.id !== id
         )
     }
+
+    fillCarsWithSeedData(cars: Car[]){
+        this.cars = cars
+    }
 }
