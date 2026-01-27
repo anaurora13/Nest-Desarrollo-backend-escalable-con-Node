@@ -8,3 +8,6 @@ Populate DB
 ```
 http://localhost:3000/seed
 ```
+```
+##//ctrl+ship+p ----> Markdown: Open preview
+```
