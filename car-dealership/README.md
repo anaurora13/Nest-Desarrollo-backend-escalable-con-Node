@@ -12,4 +12,5 @@ http://localhost:3000/seed
 ##//ctrl+ship+p ----> Markdown: Open preview
 Fin seccion 6
 Introduccion a la seccion
+Temas puntuales
 ```
